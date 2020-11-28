@@ -1,4 +1,3 @@
-aa999
 888
 III
 It's a world.\n
